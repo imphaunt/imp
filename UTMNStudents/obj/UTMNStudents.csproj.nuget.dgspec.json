@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Documents\\Personal\\UTMNStudents\\UTMNStudents\\UTMNStudents.csproj": {}
+    "C:\\Users\\User\\Desktop\\Новая папка\\UTMNStudents\\UTMNStudents\\UTMNStudents.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Documents\\Personal\\UTMNStudents\\UTMNStudents\\UTMNStudents.csproj": {
+    "C:\\Users\\User\\Desktop\\Новая папка\\UTMNStudents\\UTMNStudents\\UTMNStudents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\Personal\\UTMNStudents\\UTMNStudents\\UTMNStudents.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Новая папка\\UTMNStudents\\UTMNStudents\\UTMNStudents.csproj",
         "projectName": "UTMNStudents",
-        "projectPath": "C:\\Users\\Asus\\Documents\\Personal\\UTMNStudents\\UTMNStudents\\UTMNStudents.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Documents\\Personal\\UTMNStudents\\UTMNStudents\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Новая папка\\UTMNStudents\\UTMNStudents\\UTMNStudents.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Новая папка\\UTMNStudents\\UTMNStudents\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
