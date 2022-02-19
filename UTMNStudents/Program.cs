@@ -12,4 +12,9 @@ public class Program
         b = 2;
         int c = a + b;
     }
+
+    public static void Test()
+    {
+        return;
+    }
 }
