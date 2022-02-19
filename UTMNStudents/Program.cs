@@ -14,13 +14,14 @@ public class Program
         Console.WriteLine("123");
         Console.WriteLine("HelloWorld");
         Console.WriteLine("x = " + rec(5));
-        int a, b;
-        a = 1;
-        b = 2;
-        int c = a + b;
+        Console.WriteLine("rec(2) + rec(3) = " + newFeature(rec(2), rec(3)));
         Console.WriteLine("INFO: Program finish");
     }
 
+    public static int newFeature(int a, int b)
+    {
+        return a + b;
+    }
     public static void Test()
     {
         return;
